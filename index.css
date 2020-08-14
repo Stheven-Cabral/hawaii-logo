@@ -21,13 +21,18 @@ body {
  top: 30%;
 }
 
-#one {}
+#one {
+  color: lightyellow;
+}
 
-#one {}
+#two {
+  left: 17%;
+  top: 32%;
+}
 
-#one {}
+#three {}
 
-#one {}
+#four {}
 
 .palmtreesvg {
   position: absolute;
