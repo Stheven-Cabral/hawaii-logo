@@ -1,11 +1,22 @@
 body {
-  background-color: tan;
+  background-color: #FFF;
+  display:flex;
+  flex-direction: column;
 }
 
-#test1 {}
+#test1 {
+  z-index: 1;
 
-#test2 {}
+}
 
-#test1 {}
+#test2 {
+  z-index: 2
+}
 
-#test1 {}
+#test1 {
+  z-index: 3
+}
+
+#test1 {
+  z-index: 4
+}
