@@ -17,42 +17,42 @@ body {
 
 .text {
  position: absolute;
- left: 15%;
+ left: 14%;
  top: 30%;
+ z-index: 10;
 }
+
 
 #one {
-  color: lightyellow;
+  color: rgb(250, 250, 111);
 }
 
+
 #two {
-  left: 16%;
+  left: 15%;
   top: 31%;
   color: orange;
 }
 
 #three {
-  color: white;
-  left: 17%;
-  top: 32%;
-}
-
-#four {
   color: maroon;
-  left: 18%;
-  top: 33%;
+  left: 16%;
+  top: 32%;
 }
 
 .palmtreesvg {
   position: absolute;
-  height: 200px;
-  width: 200px;
-  left: 70%;
+  height: 300px;
+  width: 300px;
+  left: 69%;
+  top: 20%;
+  z-index: 1;
 } 
 
 #secondtree {
   transform: rotate(-25deg);
-  height: 15em;
-  left: 66%;
-  top: 24.5%;
+  height: 20em;
+  left: 62.5%;
+  top: 15%;
+  z-index: 2;
 }
