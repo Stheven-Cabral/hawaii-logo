@@ -28,11 +28,16 @@ body {
 #two {
   left: 17%;
   top: 32%;
+  color: orange;
 }
 
-#three {}
+#three {
+  color: white;
+}
 
-#four {}
+#four {
+  color: black;
+}
 
 .palmtreesvg {
   position: absolute;
