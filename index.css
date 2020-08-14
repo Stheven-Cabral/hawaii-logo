@@ -26,17 +26,21 @@ body {
 }
 
 #two {
-  left: 17%;
-  top: 32%;
+  left: 16%;
+  top: 31%;
   color: orange;
 }
 
 #three {
   color: white;
+  left: 17%;
+  top: 32%;
 }
 
 #four {
-  color: black;
+  color: maroon;
+  left: 18%;
+  top: 33%;
 }
 
 .palmtreesvg {
