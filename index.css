@@ -38,21 +38,23 @@ body {
   color: maroon;
   left: 16%;
   top: 32%;
+  opacity: 0.7;
 }
 
 .palmtreesvg {
   position: absolute;
-  height: 300px;
-  width: 300px;
-  left: 69%;
-  top: 20%;
+  height: 301px;
+  width: 301px;
+  left: 69.75%;
+  top: 24.75%;
   z-index: 1;
+  transform: rotate(15deg);
 } 
 
 #secondtree {
-  transform: rotate(-25deg);
+  transform: rotate(-17deg);
   height: 20em;
-  left: 62.5%;
-  top: 15%;
+  left: 62.4%;
+  top: 17.2%;
   z-index: 2;
 }
