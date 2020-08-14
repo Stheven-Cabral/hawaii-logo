@@ -1,36 +1,32 @@
 body {
   background-color: #FFF;
-  position: relative;
+  display: flex;
+  height: 610px;
+  justify-content: center;
+  align-items: center;
 }
 
 .hawaii {
-  position: absolute;
-}
-
-.stylecontainer {
   position: relative;
+  font-family: 'Norican', cursive;
+  font-size: 12.5em;
+  color: red;
+  height: 610px;
+  width: 100%;
 }
 
-#test1 {
-  z-index: 1;
-  position: absolute;
+.text {
+ position: absolute;
+ left: 15%;
+ top: 30%;
 }
 
-#test2 {
-  z-index: 2;
+.palmtreesvg {
   position: absolute;
-}
-
-#test1 {
-  z-index: 3;
-  position: absolute;
-}
-
-#test1 {
-  z-index: 4;
-  position: absolute;
-}
-
-.palmtree {
-  position: absolute;
+  height: 200px;
+  width: 200px;
 } 
+
+.secondtree {
+  transform: 
+}
